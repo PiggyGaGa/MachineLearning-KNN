@@ -1,0 +1,6 @@
+﻿  KNN_Main.cpp
+c:\users\liana\documents\visual studio 2015\projects\knn\knn\knnclass.h(52): warning C4091: “static ”: 没有声明变量时忽略“machinelearning::KNN::LoadDataSet::LabelInfo::stringInt”的左侧
+c:\users\liana\documents\visual studio 2015\projects\knn\knn\knnclass.h(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liana\documents\visual studio 2015\projects\knn\knn\knnclass.h(190): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liana\documents\visual studio 2015\projects\knn\knn\knnclass.h(114): warning C4715: “machinelearning::KNN::LoadDataSet”: 不是所有的控件路径都返回值
+opencv_world320.lib(opencv_world320.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
